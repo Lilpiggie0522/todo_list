@@ -7,4 +7,4 @@ You can add, delete, edit and toggle on and off various tasks on your todo list.
 
 ### This repo aims to provide understanding for React Hooks and interactions between components.
 
-[Todo-List](https://sleepy-wozniak-d75461.netlify.app)
+## Check out the [Todo-List](https://sleepy-wozniak-d75461.netlify.app) here!
